@@ -44,8 +44,8 @@ Puedes añadir los tuyos (ver [Añadir un tipo nuevo](#añadir-un-tipo-nuevo)).
 ## Instalación
 
 ```bash
-git clone https://github.com/<tu-usuario>/<este-repo>.git
-cd <este-repo>
+git clone https://github.com/Kr0us/extractor-json-claude.git
+cd extractor-json-claude
 
 # 1. Crear un entorno virtual (una "caja" aislada para las librerías del proyecto)
 python3 -m venv .venv
