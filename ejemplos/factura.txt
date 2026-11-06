@@ -1,0 +1,15 @@
+FACTURA Nº 2026-0147
+Fecha: 3 de noviembre de 2026
+
+Papelería El Lápiz S.L.
+C/ Mayor 12, Madrid
+
+Cliente: Estudio Gráfico Norte
+
+- 10 cuadernos A4 ........ 2,50 € c/u
+- 3 cajas de bolígrafos .. 6,00 € c/u
+- 1 impresión de carteles  45,00 €
+
+Subtotal: 88,00 €
+IVA (21%): 18,48 €
+TOTAL: 106,48 €

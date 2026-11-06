@@ -1,0 +1,11 @@
+# Secretos: nunca subir la API key
+.env
+
+# Entorno virtual de Python
+.venv/
+
+# Archivos generados
+__pycache__/
+*.pyc
+.pytest_cache/
+salida*.json
